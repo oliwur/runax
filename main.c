@@ -7,7 +7,6 @@
 wchar_t *convertToWChar(const char *input);
 
 int main(int argc, char **argv) {
-
     // params:
     // -u user
     // -p password
